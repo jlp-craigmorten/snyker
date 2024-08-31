@@ -6,6 +6,8 @@
 - feat: upgrade dependencies to latest versions
 - feat: bump to Node 20 and NPM >=9
 
+Note: all future release notes will only be available via the [releases page](https://github.com/jlp-craigmorten/snyker/releases)
+
 ## [4.0.2] - 16-12-2021
 
 - fix: don't rely on hardcoded paths to `snyk` binary
