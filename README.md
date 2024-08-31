@@ -9,8 +9,6 @@ An opinionated CLI wrapper around <a href="https://snyk.io/">Snyk</a> for purgin
    <img src="https://github.com/jlp-craigmorten/snyker/workflows/Test/badge.svg" alt="Current test status" />
    <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs are welcome" /></a>
    <a href="https://github.com/jlp-craigmorten/snyker/issues/"><img src="https://img.shields.io/github/issues/jlp-craigmorten/snyker" alt="snyker issues" /></a>
-   <img src="https://img.shields.io/github/stars/jlp-craigmorten/snyker" alt="snyker stars" />
-   <img src="https://img.shields.io/github/forks/jlp-craigmorten/snyker" alt="snyker forks" />
    <img src="https://img.shields.io/github/license/jlp-craigmorten/snyker" alt="snyker license" />
    <a href="https://github.com/jlp-craigmorten/snyker/graphs/commit-activity"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="snyker is maintained" /></a>
 </p>
