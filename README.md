@@ -5,14 +5,14 @@
 An opinionated CLI wrapper around <a href="https://snyk.io/">Snyk</a> for purging vulnerabilities from Node projects
 </p>
 <p align="center">
-   <a href="https://github.com/asos/snyker/tags/"><img src="https://img.shields.io/github/tag/asos/snyker" alt="Current version" /></a>
-   <img src="https://github.com/asos/snyker/workflows/Test/badge.svg" alt="Current test status" />
+   <a href="https://github.com/jlp-craigmorten/snyker/tags/"><img src="https://img.shields.io/github/tag/jlp-craigmorten/snyker" alt="Current version" /></a>
+   <img src="https://github.com/jlp-craigmorten/snyker/workflows/Test/badge.svg" alt="Current test status" />
    <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs are welcome" /></a>
-   <a href="https://github.com/asos/snyker/issues/"><img src="https://img.shields.io/github/issues/asos/snyker" alt="snyker issues" /></a>
-   <img src="https://img.shields.io/github/stars/asos/snyker" alt="snyker stars" />
-   <img src="https://img.shields.io/github/forks/asos/snyker" alt="snyker forks" />
-   <img src="https://img.shields.io/github/license/asos/snyker" alt="snyker license" />
-   <a href="https://github.com/asos/snyker/graphs/commit-activity"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="snyker is maintained" /></a>
+   <a href="https://github.com/jlp-craigmorten/snyker/issues/"><img src="https://img.shields.io/github/issues/jlp-craigmorten/snyker" alt="snyker issues" /></a>
+   <img src="https://img.shields.io/github/stars/jlp-craigmorten/snyker" alt="snyker stars" />
+   <img src="https://img.shields.io/github/forks/jlp-craigmorten/snyker" alt="snyker forks" />
+   <img src="https://img.shields.io/github/license/jlp-craigmorten/snyker" alt="snyker license" />
+   <a href="https://github.com/jlp-craigmorten/snyker/graphs/commit-activity"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="snyker is maintained" /></a>
 </p>
 <p align="center">
   <i>You're not you when you've got hundreds of vulnerable paths</i>
@@ -24,13 +24,13 @@ An opinionated CLI wrapper around <a href="https://snyk.io/">Snyk</a> for purgin
 
 ```bash
 # Start fixing vulnerabilities straight away using NPX
-npx @asos/snyker
+npx @jlp-craigmorten/snyker
 
 # Add to your global NPM packages
-npm i -g @asos/snyker
+npm i -g @jlp-craigmorten/snyker
 
 # Or to your global Yarn packages
-yarn global add @asos/snyker
+yarn global add @jlp-craigmorten/snyker
 ```
 
 ## About
