@@ -84,7 +84,7 @@ The Snyker maintainers generally advise against the usage of closed source patch
 
 Snyk has released a [closed beta](https://docs.snyk.io/getting-started/snyk-release-process#closed-beta) [`snyk fix` command](https://docs.snyk.io/snyk-cli/scan-and-maintain-projects-using-the-cli/automatic-fixing-with-snyk-fix) that aims to automatically apply the recommended updates, but this is currently only available for Enterprise customers using Python.
 
-### Snyk Wizard
+### Snyk Wizard
 
 Snyk used to support a `snyk wizard` command which would perform dependency upgrades and policy ignores [but this was removed on 31 March 2022](https://updates.snyk.io/snyk-wizard-and-snyk-protect-removal-224137).
 
