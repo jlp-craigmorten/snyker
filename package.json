@@ -1,6 +1,6 @@
 {
   "name": "snyker",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "An opinionated, heavy-handed wrapper around Snyk.",
   "author": {
     "name": "Craig Morten",
